@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tama aka Exuvia
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C++'
+- ✨ Eager to learn more abt programming!!!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm chill af, hmu if you need anything!
 - @pijarhutama16@gmail.com
